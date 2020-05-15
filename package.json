@@ -1,0 +1,8 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tamaradanhash/color-game.git",
+  "author": "Tamara Danhash <tamaradanhash1989@gmail.com>",
+  "license": "MIT"
+}
